@@ -1,1 +1,1 @@
-# kor-videochat
+# Video Chat WebRTC (Node.js)
